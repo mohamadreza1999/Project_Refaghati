@@ -2,4 +2,4 @@
 فق خودمو و باقر
 تمام
 
-![this is a picture](C:/Users/Mohamad/Desktop/123.png "title")
+![this is a picture](https://uupload.ir/files/mewc_123.png "title")
