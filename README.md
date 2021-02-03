@@ -15,7 +15,7 @@ This project provides online food shopping !
 ## Analysis and design of the project
 In this section, we will analyze and design the project
 
-*  [Activity Diagram](Diagrams/Activity diagram.md)
+*  [Activity Diagram](Diagrams/Activity_Diagram.md)
 
 *  [UseCase Diagram](Diagrams/UseCase Diagram.md)
 
