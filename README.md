@@ -40,5 +40,5 @@ In this section, we will analyze and design the project
 # Developers
 ID | First & Last Name
 ------------ | -------------
-@mohamadreza1999 | Mohamadreza Mastalizade
+mohamadreza1999 | Mohamadreza Mastalizade
 
