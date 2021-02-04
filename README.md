@@ -34,3 +34,11 @@ In this section, we will analyze and design the project
 4. Customer registration page
 5. Selected product Page
 6. System database design
+
+
+
+# Developers
+ID | First & Last Name
+------------ | -------------
+[@baqermarani](https://github.com/baqermarani) | Mohamadbaqer Marani
+[@mohamadreza1999](https://github.com/mohamadreza1999) | Mohamadreza Mastalizade
