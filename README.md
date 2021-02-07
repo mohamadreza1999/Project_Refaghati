@@ -46,7 +46,7 @@ In this section, we will analyze and design the project
 
 
 ID | first name and last name
----- | ----
+------------- | -------------
 @SorooshMortazavi | Soorosh Mortazavi
 @mehdi_t1995 | Mehdi Tavangar
 
